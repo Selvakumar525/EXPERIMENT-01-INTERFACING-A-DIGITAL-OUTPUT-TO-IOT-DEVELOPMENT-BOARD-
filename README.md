@@ -95,6 +95,11 @@ void led()
 	HAL_Delay(3000);
 }
 
+
+
+
+
+
 ## Output  :
  LED OFF:
  ![iot mot 1](https://user-images.githubusercontent.com/120643262/227225970-a2911318-9a67-4ff5-9294-c20c966cda3d.png)
